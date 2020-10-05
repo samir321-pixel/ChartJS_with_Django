@@ -23,4 +23,5 @@ python manage.py loaddata countries.json cities.json
 python manage.py runserver
 ```
 # Done!
-
+Finally, run the development server:
+The project will be available at **127.0.0.1:8000**.
