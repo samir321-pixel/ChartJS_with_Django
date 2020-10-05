@@ -16,7 +16,7 @@ python manage.py loaddata countries.json cities.json
 
 # run server
 
-To access webserver, run the following command
+To access webserver, run the following command.
 python manage.py runserver
 
 Done!
