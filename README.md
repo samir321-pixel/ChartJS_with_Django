@@ -16,3 +16,5 @@ python manage.py loaddata countries.json cities.json
 python manage.py runserver
 
 # Done!
+
+![Alt text](C:/Users/Criminal/Pictures/Screenshots/Screenshot (432).png?raw=true "Title")
