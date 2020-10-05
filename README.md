@@ -7,16 +7,12 @@ First make sure that you have the following installed.
 Now do the following to setup project
 
 # run migrate
-
-*python manage.py migrate
+python manage.py migrate
 
 # Load the data from fixtures:
-
-*python manage.py loaddata countries.json cities.json
+python manage.py loaddata countries.json cities.json
 
 # run server
+python manage.py runserver
 
-To access webserver, run the following command.
-*python manage.py runserver
-
-Done!
+# Done!
